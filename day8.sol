@@ -16,5 +16,6 @@ contract day8 {
                 n_ = temp;
             }
         }
+        return 0;
     }
 }
