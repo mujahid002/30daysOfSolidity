@@ -2,7 +2,7 @@
 
 pragma solidity >=0.5.0 <0.9.0;
 
-contract Day6 {
+contract Day24 {
     struct Student { 
         string name; 
         uint256[3] marks;
